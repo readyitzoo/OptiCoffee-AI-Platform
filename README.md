@@ -2,7 +2,7 @@
 
 > **Predict demand → Decide next-best-action → Act via autonomous agent → Close the feedback loop.**
 
-Platformă end-to-end de comerț predictiv și execuție agentică autonomă pentru distribuitori B2B din industria de cafea de specialitate. Sistemul conectează analiza datelor tabulare de consum cu agenți conversaționali dotați cu unelte deterministe (Tool Calling).
+Platformă autonomă de reaprovizionare predictivă și vânzări B2B pentru distribuitorii de cafea de specialitate. Conectează prognoza consumului cu un agent AI capabil să negocieze și să plaseze comenzi (Tool Calling).
 ---
 
 ## 🖥️ Interfața Platformei (Streamlit Demo)
