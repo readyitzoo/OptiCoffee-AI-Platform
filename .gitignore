@@ -1,0 +1,14 @@
+# Mediu virtual (nu se urcă)
+venv/
+env/
+
+# Secrete și chei API (CRITIC: nu se urcă)
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# IDE cache
+.vscode/
+.idea/
