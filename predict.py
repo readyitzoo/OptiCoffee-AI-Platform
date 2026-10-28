@@ -96,6 +96,7 @@ class DemandPredictor:
                 "channel": row["channel"],
                 "last_product_id": row["product_id"],
                 "last_product_name": row["product_name"],
+                "estimated_stock_left_kg": round(estimated_stock_left, 1), 
                 "days_until_stockout": round(days_until_stockout, 1),
                 "recommended_reorder_kg": recommended_reorder_kg,
                 "urgency_score": urgency_score,
